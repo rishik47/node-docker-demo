@@ -23,4 +23,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: yourdockerusername/nodejs-app:latest
+          tags: rishik47/nodejs-app:latest
